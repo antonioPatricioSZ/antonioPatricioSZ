@@ -11,7 +11,7 @@ Desenvolvo aplicações **backend** e **frontEnd**
 
 
 ## **Minhas habilidades**
-Aqui são algumas das tecnologias que eu 
+Aqui são algumas das tecnologias que possuo conhecimento 
 
 ![Tech skills](capa.jpg) 
 
