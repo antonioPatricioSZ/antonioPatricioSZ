@@ -20,7 +20,7 @@ Aqui são algumas das tecnologias que possuo conhecimento
 
 ### Next.JS
 
- ### C#
+ ### .NET Core C#
 
  ---
 
