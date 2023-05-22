@@ -18,7 +18,7 @@ Aqui são algumas das tecnologias que possuo conhecimento
  ---
  ## 📚O que estou estudando agora?
 
-### Next.JS
+### Typescript
 
  ### .NET Core C#
 
@@ -35,7 +35,7 @@ Eu falo **Português** e tenho **Inglês** básico.
 ---
 ## 🍿No meu tempo livre eu gosto?
 
-No meu tempo livre gosto de jogar alguns jogos, sair para comer algo mas estou sempre estudando de alguma forma é algo que gosto de fazer.
+No meu tempo livre gosto de jogar, sair para comer algo mas estou sempre estudando de alguma forma é algo que gosto de fazer.
 
 
 
