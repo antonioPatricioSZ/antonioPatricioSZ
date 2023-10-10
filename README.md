@@ -7,8 +7,6 @@
 
 Desenvolvo aplicações **backend** e **frontEnd**
 
----
-
  ---
  ## 📚O que estou estudando agora?
 
