@@ -9,12 +9,6 @@ Desenvolvo aplicações **backend** e **frontEnd**
 
 ---
 
-
-## **Minhas habilidades**
-Aqui são algumas das tecnologias que possuo conhecimento 
-
-![Tech skills](capa.jpg) 
-
  ---
  ## 📚O que estou estudando agora?
 
