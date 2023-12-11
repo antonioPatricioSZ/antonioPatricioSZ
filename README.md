@@ -38,13 +38,6 @@
 
 Eu falo **Português** e tenho **Inglês** básico.
 
----
-## 🍿No meu tempo livre eu gosto?
-
-No meu tempo livre gosto de jogar, sair para comer algo mas estou sempre estudando de alguma forma é algo que gosto de fazer.
-
-
-
 <!--- Shields --->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-074097?&style=for-the-badge&logo=LinkedIn&logoColor=white
 
