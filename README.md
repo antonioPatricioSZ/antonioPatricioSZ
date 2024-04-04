@@ -20,8 +20,6 @@
 
 ## 📚O que estou estudando?
 
-### Typescript
-
 ### .NET Core C#
 
 ### Inglês
