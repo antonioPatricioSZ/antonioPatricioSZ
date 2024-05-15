@@ -52,4 +52,4 @@ Falo **Português** e tenho **Inglês** básico.
 <!--- Urls --->
 
 [portifolio-url]: https://webdev-portifolio.netlify.app
-[linkedin-url]: https://www.linkedin.com/in/antonio-patr%C3%ADcio-19b09419a
+[linkedin-url]: https://www.linkedin.com/in/antoniopatriciosz
