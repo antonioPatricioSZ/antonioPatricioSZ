@@ -1,6 +1,6 @@
 # **Olá**, eu sou o Patrício Souza
 
-[![portifolio][portifolio-shield]][portifolio-url]
+[![portifolio][portfolio-shield]][portifolio-url]
 [![linkedin][linkedin-shield]][linkedin-url]
 
 ## 💻 Tecnologias que utilizo
@@ -51,5 +51,5 @@ Falo **Português** e tenho **Inglês** básico.
 
 <!--- Urls --->
 
-[portfolio-url]: https://webdev-portifolio.netlify.app
+[portifolio-url]: https://webdev-portifolio.netlify.app
 [linkedin-url]: https://www.linkedin.com/in/antonio-patr%C3%ADcio-19b09419a
