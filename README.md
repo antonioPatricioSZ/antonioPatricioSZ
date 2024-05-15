@@ -1,6 +1,6 @@
 # **Olá**, eu sou o Patrício Souza
 
-[![instagram][instagram-shield]][instagram-url]
+[![portifolio][portifolio-shield]][portifolio-url]
 [![linkedin][linkedin-shield]][linkedin-url]
 
 ## 💻 Tecnologias que utilizo
@@ -47,10 +47,9 @@ Falo **Português** e tenho **Inglês** básico.
 <!--- Shields --->
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-074097?&style=for-the-badge&logo=LinkedIn&logoColor=white
-[Instagram-shield]: https://img.shields.io/badge/Instagram-a5112d?&style=for-the-badge&logo=Instagram&logoColor=white
+[portfolio-shield]: https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white
 
 <!--- Urls --->
 
-[adoçãoPB-url]: https://google.com
-[instagram-url]: https://www.instagram.com/patricio_sfilho/
-[linkedin-url]: https://www.linkedin.com/in/antonio-patr%C3%ADcio-19b09419a/
+[portfolio-url]: https://webdev-portifolio.netlify.app
+[linkedin-url]: https://www.linkedin.com/in/antonio-patr%C3%ADcio-19b09419a
