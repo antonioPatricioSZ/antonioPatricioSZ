@@ -1,4 +1,4 @@
-# **Olá**, eu sou o Patrício Souza
+# **Olá**, sou o Patrício Souza
 
 [![portifolio][portfolio-shield]][portifolio-url]
 [![linkedin][linkedin-shield]][linkedin-url]
@@ -20,21 +20,15 @@
 
 ## 📚O que estou estudando?
 
-### .NET Core C#
+### Espanhol
 
 ### Inglês
 
----
+### .NET MAUI
 
-## 🌱Você está trabalhando em algum projeto?
+## Idiomas
 
-**Sim**. Estou desenvolvendo um projeto de uma espécie de plataforma de adoção de pets chamada **AdoçãoPB**.
-
----
-
-## 🎤Quais idiomas eu falo?
-
-Falo **Português** e tenho **Inglês** básico.
+**Inglês** e **Espanhol** básico.
 
 ---
 
