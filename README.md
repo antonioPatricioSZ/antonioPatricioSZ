@@ -26,8 +26,6 @@
 
 ### Inglês
 
-### .NET MAUI
-
 ## Idiomas
 
 **Inglês** e **Espanhol** básico.
