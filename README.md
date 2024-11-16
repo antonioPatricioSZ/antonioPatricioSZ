@@ -1,4 +1,4 @@
-# **Olá**, sou o Patrício Souza
+# **Olá**, sou Patrício
 
 [![portifolio][portfolio-shield]][portifolio-url]
 [![linkedin][linkedin-shield]][linkedin-url]
