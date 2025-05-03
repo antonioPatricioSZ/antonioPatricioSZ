@@ -21,12 +21,6 @@
 
 ---
 
-## 📚O que estou estudando?
-
-### Espanhol
-
-### Inglês
-
 ## Idiomas
 
 **Inglês** e **Espanhol** básico.
