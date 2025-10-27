@@ -23,7 +23,7 @@
 
 ## Idiomas
 
-**Inglês** e **Espanhol** básico.
+**Inglês** básico.
 
 ---
 
